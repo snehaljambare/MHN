@@ -64,5 +64,13 @@ We need to install the latest version of Splunk for Linux as tgz compressed file
 MHN attack count
 ![MicrosoftTeams-image (22)](https://github.com/snehaljambare/MHN/assets/74786817/1ab0a867-6bd8-4deb-b2bd-503dec7e697d)
 
+Web application 
+
+![MicrosoftTeams-image (23)](https://github.com/snehaljambare/MHN/assets/74786817/d6158459-55b1-473f-ad54-15dcc505cef5)
+
+Splunk 
+
+![splunk](https://github.com/snehaljambare/MHN/assets/74786817/cde0c938-8337-4122-9a6a-40f28383ba78)
+
 
 
