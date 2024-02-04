@@ -85,5 +85,5 @@ The Future scope and potential of Honeypot is limitless and huge as we are all m
 Finally, this honeypot demonstrated the efficiency of using Modern Honey Network (MHN) in conjunction with Splunk to improve cybersecurity measures. The deployment and integration of MHN and Splunk has proven to be an effective combination for identifying, redirecting, and investigating hostile activity on computer systems and networks. The use of MHN gave useful insights into new dangers, and the interface with Splunk enabled a more efficient and complete study of honeypot data. The technique aided early detection strategies, improved threat intelligence, and provided practical direction for security experts. The collaboration between MHN and Splunk resulted in a comprehensive technique for real-time monitoring and response to growing cyber threats. This thesis not only emphasizes the need of honeypots in cybersecurity, but it also demonstrates the effectiveness of MHN and Splunk integration as a proactive and perceptive protection mechanism against sophisticated threats.
 
 ### References
-- https://github.com/pwnlandia/mhn/wiki/Running-MHN-Over-HTTPS
+- https://github.com/pwnlandia/mhn
 
