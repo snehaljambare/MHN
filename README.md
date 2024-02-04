@@ -56,3 +56,5 @@ We need to install the latest version of Splunk for Linux as tgz compressed file
 - $ tar –zxvf Splunk_package.tgz
 - $ cd /opt/splunk/bin
 - $ ./splunk start
+![splunk install](https://github.com/snehaljambare/MHN/assets/74786817/1a4992c2-7b85-4859-b84a-7e9902d34390)
+
