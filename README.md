@@ -1,12 +1,12 @@
 # MHN
 MHN is a centralized server for management and data collection of honeypots. MHN allows you to deploy sensors quickly and to collect data immediately, viewable from a neat web interface. Honeypot deploy scripts include several common honeypot technologies, including Snort, Cowrie, Dionaea, and glastopf, among others.
 # Objectives:
-1.Identify and Incorporate Vulnerabilities in Honeypots
-2.Design and Implement Database Integration
-3.unauthorized access and potential data breaches.
-4.Develop Web Application Interface
-5.Implement and Monitor SIEM Integration
-6.Establish Attack-Chain Mechanisms
+- Identify and Incorporate Vulnerabilities in Honeypots
+- Design and Implement Database Integration
+- Unauthorized access and potential data breaches.
+- Develop Web Application Interface
+- Implement and Monitor SIEM Integration
+- Establish Attack-Chain Mechanisms
 By incorporating these objectives into our project, we aim to develop a comprehensive and effective cybersecurity infrastructure that can protect web applications and their underlying infrastructure from various threats and effectively mitigate potential attacks.
 # Installation
 - The MHN server is supported on Ubuntu 18.04, Ubuntu 16.04, and Centos 6.9.
