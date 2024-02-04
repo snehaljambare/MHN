@@ -36,3 +36,11 @@ MHN was designed to make scalable deployment of honeypots easier. Here are the s
 - Copy the deployment command.
 - Login to a honeypot server and run this command as root.
 - If the deploy script successfully completes you should see the new sensor listed under your deployed sensor list. For a full list of supported sensors, check the list here:
+
+# Integration with Splunk
+hpfeeds-logger can be used to integrate MHN with Splunk.
+**Splunk**
+- cd /opt/mhn/scripts/
+- sudo ./install_hpfeeds-logger-splunk.sh
+- sudo ./install_splunk_universalforwarder.sh
+This will log the events as key/value pairs to /var/log/mhn-splunk.log. This log should be monitored by the SplunkUniversalForwarder.
