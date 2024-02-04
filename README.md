@@ -49,3 +49,10 @@ hpfeeds-logger can be used to integrate MHN with Splunk.
 - sudo ./install_hpfeeds-logger-splunk.sh
 - sudo ./install_splunk_universalforwarder.sh
 This will log the events as key/value pairs to /var/log/mhn-splunk.log. This log should be monitored by the SplunkUniversalForwarder.
+
+# Integrate Splunk with Modern honey network. 
+We need to install the latest version of Splunk for Linux as tgz compressed file from: https://www.splunk.com/en_us/products/splunk-enterprise.html Now we need to install Splunk by using following commands:
+- $ cd /opt/
+- $ tar –zxvf Splunk_package.tgz
+- $ cd /opt/splunk/bin
+- $ ./splunk start
