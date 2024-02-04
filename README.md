@@ -8,6 +8,11 @@ MHN is a centralized server for management and data collection of honeypots. MHN
 - Implement and Monitor SIEM Integration
 - Establish Attack-Chain Mechanisms
 By incorporating these objectives into our project, we aim to develop a comprehensive and effective cybersecurity infrastructure that can protect web applications and their underlying infrastructure from various threats and effectively mitigate potential attacks.
+
+# System Architecture
+![Honeypot Architecture1 drawio](https://github.com/snehaljambare/MHN/assets/74786817/cc16b507-3558-43c8-991d-f28a02c673b9)
+
+
 # Installation
 - The MHN server is supported on Ubuntu 18.04, Ubuntu 16.04, and Centos 6.9.
 - Other versions of Linux may work but are generally not tested or supported.
