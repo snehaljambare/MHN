@@ -78,7 +78,7 @@ Splunk
 ![splunk](https://github.com/snehaljambare/MHN/assets/74786817/cde0c938-8337-4122-9a6a-40f28383ba78)
 
 # Future Scope
-the honeypot that we have implemented is on a local network but is not limited to expansion in future. There is huge upside potential in the market if implemented correctly, with the right connecters we can deploy the honeypot so that there is Advanced Threat Detection capabilities, AI integration would be possible, Deception Technology can be implemented, Cloud Security deployed, Threat Intelligence can be gathered, Automated Response Mechanisms placed strategically , Regulatory Compliance performed and audited , Cybersecurity Training and Research conducted periodically , Integration with Security Operations Centers is also a possibility . 
+The honeypot that we have implemented is on a local network but is not limited to expansion in future. There is huge upside potential in the market if implemented correctly, with the right connecters we can deploy the honeypot so that there is Advanced Threat Detection capabilities, AI integration would be possible, Deception Technology can be implemented, Cloud Security deployed, Threat Intelligence can be gathered, Automated Response Mechanisms placed strategically , Regulatory Compliance performed and audited , Cybersecurity Training and Research conducted periodically , Integration with Security Operations Centers is also a possibility . 
 The Future scope and potential of Honeypot is limitless and huge as we are all moving towards a complete digital era in the near future, we will definitely need safety measures and checks in place to safeguard us in the digital platform. 
 
 # Conclusion
